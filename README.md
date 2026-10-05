@@ -20,6 +20,7 @@
 1. Laplacian 有多种读法：美音两列采用韦氏首列读法，英音列采用 Collins 的英式读法。其他变体见原词条。 [↩ 返回条目](#user-content-laplacian-row)
 
 <a name="psi-note"></a>
+
 2. psi 也可读作 /psaɪ/，词首的 p 发音；/saɪ/ 和 /psaɪ/ 均见 [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/psi) 与 [Merriam-Webster](https://www.merriam-webster.com/dictionary/psi)。 [↩ 返回条目](#user-content-psi-row)
 
 ## 条目详解
