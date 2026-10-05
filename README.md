@@ -12,11 +12,15 @@
 | <a name="divergence-row"></a>$\nabla\cdot\mathbf{F}$<br>散度 | the **divergence** of F [🔊](https://www.merriam-webster.com/dictionary/divergence)<br>del dot F | [/dəˈvɝdʒən(t)s/](https://www.merriam-webster.com/dictionary/divergence "美音KK：按韦氏读音转写") | [/daɪˈvɜːdʒəns/](https://dict.youdao.com/result?word=divergence&lang=en "英音DJ（新标准）：有道词典") | [\\də-ˈvər-jən(t)s\\](https://www.merriam-webster.com/dictionary/divergence "美音韦氏：原词典标注") | — | [YouGlish](https://youglish.com/pronounce/divergence/english) | [查看详解](#user-content-divergence-details) |
 | <a name="curl-row"></a>$\nabla\times\mathbf{F}$<br>旋度 | the **curl** of F [🔊](https://www.merriam-webster.com/dictionary/curl)<br>del cross F | [/kɝ(ə)l/](https://www.merriam-webster.com/dictionary/curl "美音KK：按韦氏读音转写") | [/kɜːl/](https://dict.youdao.com/result?word=curl&lang=en "英音DJ（新标准）：有道词典") | [\\ˈkər(-ə)l\\](https://www.merriam-webster.com/dictionary/curl "美音韦氏：原词典标注") | [OAAD](https://www.oxfordlearnersdictionaries.com/definition/american_english/curl_2) | [YouGlish](https://youglish.com/pronounce/curl/english) | [查看详解](#user-content-curl-details) |
 | <a name="laplacian-row"></a>$\nabla^2 f$<br>拉普拉斯算子 | the **Laplacian** of f<sup>[1](#user-content-laplacian-note)</sup> [🔊](https://dict.youdao.com/result?word=Laplacian&lang=en) | [/ləˈplɑsiən/](https://www.merriam-webster.com/dictionary/Laplacian "美音KK：按韦氏读音转写") | [/ləˈpleɪʃɪən/](https://www.collinsdictionary.com/dictionary/english/laplacian "英音DJ（新标准）：Collins") | [\\ləˈpläsēən\\](https://www.merriam-webster.com/dictionary/Laplacian "美音韦氏：原词典标注") | — | [YouGlish](https://youglish.com/pronounce/Laplacian/english) | [查看详解](#user-content-laplacian-details) |
+| <a name="psi-row"></a>$\Psi,\ \psi$<br>希腊字母 psi | **psi**<sup>[2](#user-content-psi-note)</sup> [🔊](https://www.merriam-webster.com/dictionary/psi) | [/saɪ/](https://www.merriam-webster.com/dictionary/psi "美音KK：按韦氏读音转写") | [/saɪ/](https://dictionary.cambridge.org/pronunciation/english/psi "英音DJ（新标准）：Cambridge 收录的读法之一") | [\\ˈsī\\](https://www.merriam-webster.com/dictionary/psi "美音韦氏：原词典标注") | [OAAD](https://www.oxfordlearnersdictionaries.com/definition/american_english/psi) | [YouGlish](https://youglish.com/pronounce/psi/english) | [查看详解](#user-content-psi-details) |
 
 🔊：关键词发音。点击音标可查看来源；—：暂无对应词典链接。
 
 <a name="laplacian-note"></a>
 1. Laplacian 有多种读法：美音两列采用韦氏首列读法，英音列采用 Collins 的英式读法。其他变体见原词条。 [↩ 返回条目](#user-content-laplacian-row)
+
+<a name="psi-note"></a>
+2. psi 也可读作 /psaɪ/，词首的 p 发音；/saɪ/ 和 /psaɪ/ 均见 [Oxford](https://www.oxfordlearnersdictionaries.com/definition/english/psi) 与 [Merriam-Webster](https://www.merriam-webster.com/dictionary/psi)。 [↩ 返回条目](#user-content-psi-row)
 
 ## 条目详解
 
@@ -174,6 +178,40 @@
 | [YouGlish — Laplacian](https://youglish.com/pronounce/Laplacian/english) | 逐段播放检索结果 | 对照字幕听 Laplacian 在讲解中的读法；可切换英美口音。 |
 
 [↑ 返回表格](#user-content-laplacian-row)
+
+</details>
+
+### psi（Ψ / ψ）
+
+<details>
+<summary>释义、完整读法与听读实例</summary>
+
+<a name="psi-details"></a>
+
+**释义**
+
+**psi** 是希腊字母的名称，大写为 `Ψ`，小写为 `ψ`。在量子力学中，ψ 常用于表示波函数。 [💡](https://openstax.org/books/university-physics-volume-3/pages/7-1-wave-functions)
+
+**发音要点**
+
+- **/saɪ/**：与英语 **sigh** 同音，可用汉字“赛”近似记忆，不带汉语声调。表格三列采用这一读法。
+- **/psaɪ/**：另一种词典收录的读法，词首的 /p/ 与 /s/ 连读，中间不插入元音。 [💡](https://www.oxfordlearnersdictionaries.com/definition/english/psi)
+
+**其他完整读法**
+
+- **capital psi**：大写 Ψ。
+- **lowercase psi**：小写 ψ。
+- **psi of x and t**：波函数 ψ(x, t) 的读法，见 [MIT 课堂文字稿](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/23194b5e6b91ebb9dad7d3b98c7bd9b7_ipXNYnO7yRk.pdf)。
+
+**听读实例**
+
+| 课程 / 来源 | 听课位置 | 关注内容 |
+| --- | --- | --- |
+| [Cambridge — psi](https://dictionary.cambridge.org/pronunciation/english/psi) | 词条发音 | 对照 UK 与 US 的标注及发音按钮，关注 /saɪ/ 与 /psaɪ/。 |
+| [MIT — Time evolution of a free particle wave packet](https://www.youtube.com/watch?v=ipXNYnO7yRk) | 开头 | 关注 psi of x and t 在量子力学课堂中的用法，可对照上方文字稿。 |
+| [YouGlish — psi](https://youglish.com/pronounce/psi/english) | 逐段播放检索结果 | 选择量子力学等学术语境中的片段，听 psi 与周围词语的连读。 |
+
+[↑ 返回表格](#user-content-psi-row)
 
 </details>
 
